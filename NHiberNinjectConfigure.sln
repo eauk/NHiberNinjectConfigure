@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHiberNinjectConfigure.Domain", "NHiberNinjectConfigure.Domain\NHiberNinjectConfigure.Domain.csproj", "{96A236B7-55CA-437C-A0FD-66F7D4F8D78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHiberNinjectConfigure.UI", "NHiberNinjectConfigure.UI\NHiberNinjectConfigure.UI.csproj", "{0C171F66-2B76-47F7-920F-EAF2A11AE60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A236B7-55CA-437C-A0FD-66F7D4F8D78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A236B7-55CA-437C-A0FD-66F7D4F8D78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A236B7-55CA-437C-A0FD-66F7D4F8D78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A236B7-55CA-437C-A0FD-66F7D4F8D78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C171F66-2B76-47F7-920F-EAF2A11AE60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C171F66-2B76-47F7-920F-EAF2A11AE60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C171F66-2B76-47F7-920F-EAF2A11AE60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C171F66-2B76-47F7-920F-EAF2A11AE60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

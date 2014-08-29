@@ -1,0 +1,14 @@
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\NHiberNinjectConfigure.Domain.dll
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\NHiberNinjectConfigure.Domain.pdb
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\FluentNHibernate.dll
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\Iesi.Collections.dll
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\NHibernate.dll
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\Ninject.dll
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\Ninject.Web.Common.dll
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\FluentNHibernate.xml
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\Iesi.Collections.xml
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\NHibernate.xml
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\Ninject.xml
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\bin\Debug\Ninject.Web.Common.xml
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\obj\Debug\NHiberNinjectConfigure.Domain.dll
+C:\_Programs\NHiberNinjectConfigure\NHiberNinjectConfigure.Domain\obj\Debug\NHiberNinjectConfigure.Domain.pdb
